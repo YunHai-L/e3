@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/e3_manager.iml" filepath="$PROJECT_DIR$/e3_manager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager_dao/e3_manager_dao.iml" filepath="$PROJECT_DIR$/e3_manager_dao/e3_manager_dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager_interface/e3_manager_interface.iml" filepath="$PROJECT_DIR$/e3_manager_interface/e3_manager_interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager_pojo/e3_manager_pojo.iml" filepath="$PROJECT_DIR$/e3_manager_pojo/e3_manager_pojo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/e3_manager_service/e3_manager_service.iml" filepath="$PROJECT_DIR$/e3_manager_service/e3_manager_service.iml" />
+    </modules>
+  </component>
+</project>

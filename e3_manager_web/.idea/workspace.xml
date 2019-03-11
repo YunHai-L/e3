@@ -1,0 +1,1328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="43513760-f56f-4eac-93ca-954fd198093e" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/e3_manager_web_war.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/artifacts/e3_manager_web_war_exploded.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_e3mall_e3_common_0_0_1_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_e3mall_e3_content_interface_0_0_1_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_e3mall_e3_manager_interface_0_0_1_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_e3mall_e3_manager_pojo_0_0_1_SNAPSHOT.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_dubbo_2_5_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_4_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_sgroschupf_zkclient_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_fileupload_commons_fileupload_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_net_commons_net_3_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__fastdfs_client_fastdfs_client_1_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_3_7_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_jsp_api_2_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_servlet_servlet_api_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jline_jline_0_9_94.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jstl_jstl_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_12.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__log4j_log4j_1_2_16.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_3_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_zookeeper_zookeeper_3_4_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjweaver_1_8_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_javassist_javassist_3_15_0_GA.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_quartz_scheduler_quartz_2_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_log4j12_1_6_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aspects_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jms_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_messaging_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_web_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_webmvc_4_2_4_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/ContentCatController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/ContentController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/ItemCatController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/ItemController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/ItemDescController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/PageController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/java/cn/e3mall/controller/PictureController.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/main.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/conf/client.conf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/conf/resource.properties" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/resources/spring/springmvc.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/content-add.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/content-category.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/content-edit.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/content.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/file-upload.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index-item.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/index.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/item-add.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/item-edit.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/item-list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/item-param-add.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/item-param-list.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/jsp/login.jsp" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/css/e3.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/common.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/changelog.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/_content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/ajax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/datagrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/expandable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/accordion/tools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/custom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/disabledate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/firstday.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/calendar/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combo" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combo/animation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combo/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/combobox_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/combobox_data2.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/customformat.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/dynamicdata.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/group.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/multiline.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/navigation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/remotedata.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combobox/remotejsonp.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/datagrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/initvalue.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combogrid/navigation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/initvalue.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/multiple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/combotree/tree_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/aligncolumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cacheeditor.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cellediting.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/cellstyle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/checkbox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/clientpagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/columngroup.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/complextoolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/contextmenu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/custompager.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/datagrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/datagrid_data2.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/formatcolumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/frozencolumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/frozenrows.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/mergecells.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/multisorting.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/products.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowborder.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowediting.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/rowstyle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/selection.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/simpletoolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datagrid/transform.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/buttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/dateformat.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/restrict.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/sharedcalendar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datebox/validate.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/initvalue.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimebox/showseconds.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/clearicon.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/datetimespinner/format.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/demo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/complextoolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/dialog/toolbarbuttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/constrain.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/draggable/snap.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/accept.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/droppable/sort.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/easyloader" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/easyloader/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/buttonalign.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/filebox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/form" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/form_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/load.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/form/validateonsubmit.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/_content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/addremove.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/autoheight.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/complex.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/datagrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/full.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/nestedlayout.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/nocollapsible.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/propertygrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/layout/tree_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/group.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/iconalign.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/plain.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/size.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/style.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/linkbutton/toggle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/customitem.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menu/events.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/alignment.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/menubutton/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/alert.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/interactive.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/messager/position.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/format.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberbox/range.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/increment.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/numberspinner/range.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/attaching.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/custombuttons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/layout.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/links.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/pagination/simple.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/_content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/customtools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/loadcontent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/nestedpanel.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/panel/paneltools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/progressbar" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/progressbar/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/progressbar/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/customcolumns.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/groupformat.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/propertygrid/propertygrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/resizable" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/resizable/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/category.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/searchbox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/formattip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/nonlinear.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/rule.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/slider/vertical.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/splitbutton" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/splitbutton/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/splitbutton/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/_content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/autoheight.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/dropdown.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/fixedwidth.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/hover.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/images/modem.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/images/pda.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/images/scanner.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/images/tablet.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/nestedtabs.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/striptools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabimage.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabposition.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tabstools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tabs/tree_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/button.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/clearicon.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/custom.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/multiline.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/textbox/size.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/timespinner/range.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/_content.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/_dialog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/ajax.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/customcontent.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/customstyle.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/position.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/toolbar.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tooltip/tooltipdialog.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/animation.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/checkbox.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/contextmenu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/dnd.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/editable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/formatting.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/icons.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/lazyload.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/lines.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/tree_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/tree/tree_data2.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/actions.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/clientpagination.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/contextmenu.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/editable.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/lines.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/reports.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/treegrid_data1.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/treegrid_data2.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/treegrid/treegrid_data3.json" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/customtooltip.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/validatebox/validateonblur.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/basic.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/customtools.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/fluid.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/footer.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/inlinewindow.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/modalwindow.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/demo/window/windowlayout.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/easyloader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/jquery.easyui.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/jquery.min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/licence_gpl.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-af.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-am.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-bg.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-ca.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-cs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-cz.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-da.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-de.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-el.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-es.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-fr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-it.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-jp.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-nl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-pl.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-pt_BR.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-ru.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-sv_SE.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-tr.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/locale/easyui-lang-zh_TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.accordion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.combo.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.combobox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.combogrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.combotree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.datagrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.datebox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.datetimebox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.datetimespinner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.dialog.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.draggable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.droppable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.filebox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.layout.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.linkbutton.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.menu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.menubutton.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.messager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.numberbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.numberspinner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.pagination.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.panel.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.progressbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.propertygrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.resizable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.searchbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.spinner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.splitbutton.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.tabs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.textbox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.timespinner.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.tooltip.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.tree.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.treegrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.validatebox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/plugins/jquery.window.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/readme.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/easyloader.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.accordion.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.calendar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.combobox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.datebox.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.draggable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.droppable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.form.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.linkbutton.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.menu.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.parser.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.progressbar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.propertygrid.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.resizable.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.slider.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.tabs.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/src/jquery.window.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/combo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/combobox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/datagrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/datebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/easyui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/filebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/accordion_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/calendar_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/combo_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/datagrid_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/datebox_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/layout_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/linkbutton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/menu_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/messager_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/pagination_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/panel_tools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/searchbox_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/slider_handle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/spinner_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/tabs_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/tree_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/images/validatebox_warning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/linkbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/menubutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/messager.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/numberbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/panel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/propertygrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/searchbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/splitbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/textbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/tree.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/validatebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/black/window.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/combo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/combobox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/datagrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/datebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/easyui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/filebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/accordion_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/calendar_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/combo_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/datagrid_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/datebox_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/layout_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/linkbutton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/menu_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/messager_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/pagination_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/panel_tools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/searchbox_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/slider_handle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/spinner_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/tabs_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/tree_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/images/validatebox_warning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/linkbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/menubutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/messager.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/numberbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/panel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/propertygrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/searchbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/splitbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/textbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/tree.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/validatebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/bootstrap/window.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/color.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/combo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/combobox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/datagrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/datebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/easyui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/filebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/accordion_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/calendar_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/combo_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/datagrid_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/datebox_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/layout_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/linkbutton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/menu_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/messager_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/pagination_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/panel_tools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/searchbox_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/slider_handle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/spinner_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/tabs_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/tree_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/images/validatebox_warning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/linkbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/menubutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/messager.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/numberbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/panel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/propertygrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/searchbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/splitbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/textbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/tree.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/validatebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/default/window.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/combo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/combobox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/datagrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/datebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/easyui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/filebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/accordion_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/calendar_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/combo_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/datagrid_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/datebox_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/layout_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/linkbutton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/menu_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/messager_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/pagination_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/panel_tools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/searchbox_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/slider_handle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/spinner_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/tabs_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/tree_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/images/validatebox_warning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/linkbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/menubutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/messager.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/numberbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/panel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/propertygrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/searchbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/splitbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/textbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/tree.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/validatebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/gray/window.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icon.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/back.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/cancel.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/clear.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/cut.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/edit_add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/edit_remove.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/filesave.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/filter.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/help.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/large_chart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/large_clipart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/large_picture.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/large_shapes.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/large_smartart.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/lock.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/man.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/mini_add.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/mini_edit.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/mini_refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/no.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/ok.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/pencil.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/print.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/redo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/reload.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/search.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/sum.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/tip.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/icons/undo.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/accordion.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/calendar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/combo.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/combobox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/datagrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/datebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/dialog.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/easyui.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/filebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/accordion_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/calendar_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/combo_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/datagrid_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/datebox_arrow.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/layout_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/linkbutton_bg.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/menu_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/messager_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/pagination_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/panel_tools.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/searchbox_button.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/slider_handle.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/spinner_arrows.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/tabs_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/tree_icons.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/images/validatebox_warning.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/layout.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/linkbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/menu.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/menubutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/messager.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/numberbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/pagination.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/panel.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/progressbar.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/propertygrid.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/searchbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/slider.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/spinner.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/splitbutton.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/tabs.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/textbox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/tooltip.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/tree.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/validatebox.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/jquery-easyui-1.4.1/themes/metro/window.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/kindeditor-all-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/kindeditor-all.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/kindeditor-min.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/kindeditor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang/ar.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang/en.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang/ko.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang/zh_CN.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/lang/zh_TW.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/license.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/anchor" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/anchor/anchor.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/autoheight" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/autoheight/autoheight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap/baidumap.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap/index.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/baidumap/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/clearhtml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/clearhtml/clearhtml.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/code" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/code/code.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/code/prettify.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/code/prettify.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/emoticons.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/0.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/1.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/10.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/100.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/101.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/102.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/103.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/104.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/105.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/106.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/107.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/108.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/109.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/11.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/110.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/111.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/112.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/113.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/114.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/115.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/116.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/117.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/118.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/119.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/12.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/120.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/121.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/122.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/123.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/124.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/125.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/126.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/127.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/128.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/129.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/13.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/130.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/131.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/132.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/133.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/134.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/14.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/15.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/17.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/18.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/19.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/2.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/20.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/21.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/22.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/23.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/24.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/25.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/26.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/27.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/28.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/29.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/3.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/30.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/31.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/32.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/33.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/34.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/35.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/36.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/37.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/38.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/39.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/4.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/40.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/41.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/42.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/43.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/44.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/45.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/46.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/47.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/48.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/49.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/5.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/50.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/51.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/52.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/53.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/54.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/55.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/56.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/57.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/58.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/59.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/6.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/60.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/61.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/62.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/63.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/65.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/66.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/67.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/68.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/69.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/7.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/70.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/71.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/72.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/73.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/74.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/75.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/76.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/77.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/78.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/79.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/8.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/80.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/81.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/82.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/83.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/84.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/85.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/86.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/87.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/88.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/89.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/9.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/90.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/91.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/92.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/93.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/94.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/95.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/96.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/97.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/98.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/99.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/emoticons/images/static.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/filemanager.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images/file-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images/file-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images/folder-16.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images/folder-64.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/filemanager/images/go-up.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/flash" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/flash/flash.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/image.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/images/align_left.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/images/align_right.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/images/align_top.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/image/images/refresh.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/insertfile" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/insertfile/insertfile.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/lineheight" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/lineheight/lineheight.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/link" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/link/link.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/map" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/map/map.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/map/map.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/media" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/media/media.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/images" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/images/image.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/images/select-files-en.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/images/select-files-zh_CN.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/images/swfupload.swf" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/multiimage/multiimage.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/pagebreak" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/pagebreak/pagebreak.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/plainpaste" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/plainpaste/plainpaste.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/preview" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/preview/preview.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/quickformat" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/quickformat/quickformat.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/table" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/table/table.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template/html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template/html/1.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template/html/2.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template/html/3.html" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/template/template.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/wordpaste" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/plugins/wordpaste/wordpaste.js" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/anchor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/blank.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/flash.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/loading.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/media.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/common/rm.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/default" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/default/background.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/default/default.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/default/default.png" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/qq" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/qq/editor.gif" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/qq/qq.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/simple" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/js/kindeditor-4.1.10/themes/simple/simple.css" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/src/test/java" />
+    </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="D:/Maven/apache-maven-3.3.9" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="1.8" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="216" />
+    <option name="y" value="155" />
+    <option name="width" value="1102" />
+    <option name="height" value="732" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="e3_manager_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e3_manager_web" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e3_manager_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e3_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e3_manager_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e3_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e3_manager_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e3_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="e3_manager_web" type="b2602c69:ProjectViewProjectNode" />
+              <item name="e3_manager_web" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="webapp" type="462c0819:PsiDirectoryNode" />
+              <item name="WEB-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../e3_parent" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\YunHai\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\ideaWork\e3\e3_manager_web" />
+          <option name="myCopyRoot" value="D:\ideaWork\e3\e3_manager_web" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\ideaWork\e3\e3_manager_web\.idea" />
+          <option name="myCopyRoot" value="D:\ideaWork\e3\e3_manager_web\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\ideaWork\e3\e3_manager_web" />
+          <option name="myCopyRoot" value="D:\ideaWork\e3\e3_manager_web" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43513760-f56f-4eac-93ca-954fd198093e" name="Default" comment="" />
+      <created>1543512599738</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1543512599738</updated>
+      <workItem from="1543512602191" duration="497000" />
+      <workItem from="1544589869505" duration="4430000" />
+    </task>
+    <task id="LOCAL-00001">
+      <created>1544592152668</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544592152668</updated>
+    </task>
+    <task id="LOCAL-00002">
+      <created>1544592850980</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1544592850980</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4927000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32934782" sideWeight="0.4978678" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Java Enterprise" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32934782" sideWeight="0.5021322" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25266525" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Web" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

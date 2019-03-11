@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/../e3_cart" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_cart/e3_cart_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_cart/e3_cart_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_cart_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_content" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_content/e3_content_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_content/e3_content_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_item_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager/e3_manager_dao" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager/e3_manager_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager/e3_manager_pojo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager/e3_manager_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_manager_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_order/e3_order_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_order/e3_order_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_order_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_portal_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_search/e3_search_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_search/e3_search_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_search_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_sso" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_sso/e3_sso_interface" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_sso/e3_sso_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../e3_sso_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/../test" charset="UTF-8" />
+  </component>
+</project>

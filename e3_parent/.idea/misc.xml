@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/../e3_cart/e3_cart_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_cart_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_content/e3_content_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_item_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_manager/e3_manager_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_manager_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_order/e3_order_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_order_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_portal_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_search/e3_search_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_search_web" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_sso/e3_sso_service" />
+    <file type="web" url="file://$PROJECT_DIR$/../e3_sso_web" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_common/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_manager/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_manager/e3_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_manager_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../pagehelper/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_portal_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_content/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_search_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_item_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_sso/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_sso_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_cart/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_cart_web/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_order/pom.xml" />
+        <option value="$PROJECT_DIR$/../e3_order_web/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+  <component name="SvnBranchConfigurationManager">
+    <option name="myConfigurationMap">
+      <map>
+        <entry key="$PROJECT_DIR$/../e3_cart">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/branches" />
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://desktop-70rs77t/svn/e3_JavaEE32/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e3_common">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/branches" />
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://desktop-70rs77t/svn/e3_JavaEE32/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/../e3_manager">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="trunkUrl" value="https://desktop-70rs77t/svn/e3-JavaEE32/e3_manager" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <SvnBranchConfiguration>
+              <option name="branchUrls">
+                <list>
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/branches" />
+                  <option value="https://desktop-70rs77t/svn/e3_JavaEE32/tags" />
+                </list>
+              </option>
+              <option name="trunkUrl" value="https://desktop-70rs77t/svn/e3_JavaEE32/trunk" />
+            </SvnBranchConfiguration>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="mySupportsUserInfoFilter" value="true" />
+  </component>
+</project>
